@@ -1,0 +1,29 @@
+.para{
+    line-height: 10px;
+    margin: 1px;
+}
+.head{
+  margin:2px;
+}
+.u{
+    color: red;
+}
+.one{
+    color:red;
+}
+.two{
+    color:rgb(35, 74, 91);
+}
+.three{
+    margin:40px;
+}
+.four{
+    margin-top: 50px;
+}
+.five{
+    margin-left: 30px;
+}
+.six{
+    color: red;
+    margin:2px;
+}
